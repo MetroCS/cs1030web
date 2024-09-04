@@ -7,7 +7,7 @@ This is a template for a CS1030 web page project.
    * Choose Branch: **main**
    * **Save** _without_ choosing a Theme
    * It may take a little while for GitHub to notice, build, and publish your website 
-   * Note the URL of the published website (e.g., https:&ThinSpace;//metrocs.github.io/_repositoryname_)
+   * Note the URL of the published website (for example, https:&ThinSpace;//_youraccount_.github.io/_repositoryname_)
 2. Open the published website in your browser to verify access
 3. Update your website by _editing_ **index.html** and _committing_ the changes
    * Make some significant changes that personalize your website and would be obvious to a visitor (e.g., your instructor)
