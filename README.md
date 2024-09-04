@@ -1,7 +1,7 @@
 This is a template for a CS1030 web page project.
 
 0. If you did not start with a copy of this repository via GitHub Classroom:
-   * Copy this repository via "Use this template" or Fork this repository
+   * Copy this repository via "Use this template" (button in upper-right corner)
 1. Enable GitHub Pages via the _Settings > Pages_ menu
    * Choose Source: **Deploy from a branch**
    * Choose Branch: **main**
