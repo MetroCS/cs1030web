@@ -20,8 +20,10 @@ This is a template for a CS1030 web page project.
     * Double-check your GitHub Pages settings
 
 5. Update your website:
-    * Edit **index.html** and _commit_ your changes.
-    * Make visible, personal edits, such as:
-        * Adding your name to the title.
-        * Replacing placeholder text with your own content.
-        * Adding an imaging or changing background colors.
+    * Open **index.html** in the GitHub web editor.
+        * Change `<meta name="author" content="REPLACE WITH YOUR NAME">` to show your name.
+        * Change the `<h1>` heading so it includes your name or a custom title.
+        * Make another visible, personal edit, such as
+            - changing colors of text or background
+            - uploading an image to the repo and updating `<img src="logo.png">`
+    * **Commit** your changes so they appear on your published site.
