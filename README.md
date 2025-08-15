@@ -1,13 +1,27 @@
 This is a template for a CS1030 web page project.
 
-0. If you did not start with a copy of this repository via GitHub Classroom:
-   * Copy this repository via "Use this template" (button in upper-right corner)
-1. Enable GitHub Pages via the _Settings > Pages_ menu
-   * Choose Source: **Deploy from a branch**
-   * Choose Branch: **main**
-   * **Save** _without_ choosing a Theme
-   * It may take a little while for GitHub to notice, build, and publish your website 
-   * Note the URL of the published website (for example, https:&ThinSpace;//_youraccount_.github.io/_repositoryname_)
-2. Open the published website in your browser to verify access
-3. Update your website by _editing_ **index.html** and _committing_ the changes
-   * Make some significant changes that personalize your website and would be obvious to a visitor (e.g., your instructor)
+1. Make your own copy of this repository:
+    * Click the **Use this template** button (upper-right of the repository page).
+    * You must be signed into GitHub to see this button
+
+2. Enable GitHub Pages:
+    * Go to the _Settings > Pages_ menu.
+    * Choose _Source:_ **Deploy from a branch**
+    * Choose _Branch:_ **main**
+    * Click **Save** -- _do not_ choose a Theme.
+       * Choosing a Theme may replace some template files.
+    * It may take 1 to 5 minutes for GitHub to publish your website.
+
+3. Note your website URL:
+   * Example: https:&ThinSpace;//_youraccount_.github.io/_repositoryname_
+
+4. Open your website in a browser to verify it works.
+    * If it doesn't load, wait a few minutes, then refresh.
+    * Double-check your GitHub Pages settings
+
+5. Update your website:
+    * Edit **index.html** and _commit_ your changes.
+    * Make visible, personal edits, such as:
+        * Adding your name to the title.
+        * Replacing placeholder text with your own content.
+        * Adding an imaging or changing background colors.
