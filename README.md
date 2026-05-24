@@ -1,4 +1,4 @@
-This is a template for a CS1030 web page project.
+This is a template for creating a GitHub published website.
 
 1. Make your own copy of this repository:
     * Click the **Use this template** button (upper-right of the repository page).
