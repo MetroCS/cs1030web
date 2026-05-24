@@ -27,3 +27,10 @@ This is a template for a CS1030 web page project.
             - changing colors of text or background
             - uploading an image to the repo and updating `<img src="logo.png">`
     * **Commit** your changes so they appear on your published site.
+
+---
+<img src="https://creativecommons.org/wp-content/uploads/2026/04/cc-zero-1-300x106.png" alt="CC0" align="left"/>
+
+To the extent possible under law, Dr. Jody Paul has waived all copyright and related or neighboring rights to <span property="dct:title">cs1030web</span>.
+This work is published from: United States of America<br>
+View the [CC0 1.0 Universal Deed](https://creativecommons.org/publicdomain/zero/1.0/).
