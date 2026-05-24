@@ -13,13 +13,13 @@ This is a template for a CS1030 web page project.
     * It may take 1 to 5 minutes for GitHub to publish your website.
 
 3. Note your website URL:
-   * Example: https:&ThinSpace;//_youraccount_.github.io/_repositoryname_
+   * <samp>https://</samp><i>youraccount</i><samp>.github.io/</samp><i>repositoryname</i>
 
-4. Open your website in a browser to verify it works.
+5. Open your website in a browser to verify it works.
     * If it doesn't load, wait a few minutes, then refresh.
-    * Double-check your GitHub Pages settings
+    * Double-check your GitHub Pages settings.
 
-5. Update your website:
+6. Update your website:
     * Open **index.html** in the GitHub web editor.
         * Change `<meta name="author" content="REPLACE WITH YOUR NAME">` to show your name.
         * Change the `<h1>` heading so it includes your name or a custom title.
@@ -32,5 +32,5 @@ This is a template for a CS1030 web page project.
 <img src="https://creativecommons.org/wp-content/uploads/2026/04/cc-zero-1-300x106.png" alt="CC0" align="left"/>
 
 To the extent possible under law, Dr. Jody Paul has waived all copyright and related or neighboring rights to <span property="dct:title">cs1030web</span>.
-This work is published from: United States of America<br>
-View the [CC0 1.0 Universal Deed](https://creativecommons.org/publicdomain/zero/1.0/).
+This work is published from:&nbsp;United&nbsp;States&nbsp;of&nbsp;America<br>
+View the CC0 1.0 Universal [Legal Code](LICENSE) or [Universal Deed](https://creativecommons.org/publicdomain/zero/1.0/).
