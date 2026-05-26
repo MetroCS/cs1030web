@@ -31,6 +31,6 @@ This is a template for creating a GitHub-published website.
 ---
 <img src="https://creativecommons.org/wp-content/uploads/2026/04/cc-zero-1-300x106.png" alt="CC0" align="left"/>
 
-To the extent possible under law, Dr. Jody Paul has waived all copyright and related or neighboring rights to <span property="dct:title">cs1030web</span>.
+To the extent possible under law, Dr. Jody Paul has waived all copyright and related or neighboring rights to <span property="dct:title">createWebsite</span>.
 This work is published from:&nbsp;United&nbsp;States&nbsp;of&nbsp;America<br>
 View the CC0 1.0 Universal [Legal Code](LICENSE) or [Universal Deed](https://creativecommons.org/publicdomain/zero/1.0/).
